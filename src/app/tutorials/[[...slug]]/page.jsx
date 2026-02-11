@@ -5,8 +5,8 @@ import React from 'react';
 
 const TutorialPage = async({params}) => {
     // const {technology,topic,page_no,subject }= await params;
-    const {slug}=await params
-    const [technology,topic, ,page_no,subject ]=slug
+    const {slug}=await params;
+    const [technology,topic,page_no,subject ]=slug || [];
    
     return (
         <div>
