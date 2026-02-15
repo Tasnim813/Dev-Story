@@ -1,4 +1,4 @@
-This is ahttps://dev-story-vk5q.vercel.app/ project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Live Link:https://dev-story-vk5q.vercel.app/
 
 ## Getting Started
 
